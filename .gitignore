@@ -1,0 +1,7 @@
+# IDE
+.idea/
+
+#CI
+contributing.md
+readme.rst
+license.txt
